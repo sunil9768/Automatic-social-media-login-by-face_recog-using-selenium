@@ -175,7 +175,20 @@ After the installation, the following code should work:
 >from selenium import webdriver
 
 >browser = webdriver.Chrome([path of drive](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/tree/master/chromedriver_linux64(1)))
+
+
+
+
+
 >browser.get('http://www.ubuntu.com/')
+
+**Note**This small piece of code will log-in an account automatically like facebook,instagram,github,linkedin. 
+
+
+**How to run this program in terminal**
+
+
+>python3 face.py
  
     
     
