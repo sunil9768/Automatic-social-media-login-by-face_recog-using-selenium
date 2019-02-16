@@ -147,6 +147,12 @@ To install dlib before Face Recognition, run this command in your terminal:
 
  > pip3 install face_recognition
  
+ 
+ 
+**How Face Recognition Works**
+
+If you want to learn how face location and recognition work instead of depending on a black box library, [read](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+ 
     
     
     
