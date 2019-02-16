@@ -43,7 +43,7 @@ Automatic-social-media-login-by-face_recog-using-selenium
     > Successfully Installed:+1:
     
     
- 3.**Necessary module will  be installed in terminal**
+  3.**Necessary module will  be installed in terminal**
  
  >sudo apt-get install python3.6
  
@@ -59,6 +59,41 @@ Automatic-social-media-login-by-face_recog-using-selenium
  
  
  >pip3 --version
+ 
+ 
+ To install this package with conda run:
+ 
+ 
+ 
+ 
+ >conda install -c anaconda anaconda 
+ 
+ 
+ Now, let’s install NumPy:
+ 
+ 
+ 
+ >sudo apt install python3-numpy
+ 
+ 
+ 
+ 
+ If you need OpenCV, you can install it with:
+ 
+ 
+ 
+ >sudo apt install python3-opencv
+ 
+ 
+ 
+ 
+ 
+ To install Face Recognition, run this command in your terminal:
+ 
+ 
+ 
+ 
+ > pip3 install face_recognition
     
     
     
