@@ -31,6 +31,12 @@ Automatic-social-media-login-by-face_recog-using-selenium
     
     
     > Successfully Installed:+1:
+    
+    
+
+2. After install Anaconda3 then we go to terminal there.we write
+>anaconda-navigator
+>[you see](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/upload/master)
 
 2. Download Open CV Package
 3. Set Environmental Variables
