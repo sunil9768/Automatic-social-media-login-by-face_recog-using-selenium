@@ -43,6 +43,11 @@ Automatic-social-media-login-by-face_recog-using-selenium
     > Successfully Installed:+1:
     
     
+    
+    
+    ![Screenshot]\(https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu002.png) 
+    
+    
 
 
 
