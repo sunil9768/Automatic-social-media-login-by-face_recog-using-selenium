@@ -14,6 +14,8 @@ Automatic-social-media-login-by-face_recog-using-selenium
 
 
 1. Install Anaconda
+    first of all download Anaconda this [link]()
+
 2. Download Open CV Package
 3. Set Environmental Variables
 4. Test to confirm
