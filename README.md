@@ -152,6 +152,30 @@ To install dlib before Face Recognition, run this command in your terminal:
 **How Face Recognition Works**
 
 If you want to learn how face location and recognition work instead of depending on a black box library, [read](https://medium.com/@ageitgey/machine-learning-is-fun-part-4-modern-face-recognition-with-deep-learning-c3cffc121d78)
+
+
+2.**Selenium**
+> This is a quick introduction to [Selenium](https://www.seleniumhq.org/) [WebDrive](http://www.aosabook.org/en/selenium.html) in Python on Ubuntu/Debian systems.
+
+>WebDriver (part of Selenium 2) is a library for automating browsers, and can be used from a variety of language >bindings. It allows you to programmatically drive a browser and interact with web elements. It is most often used for >test automation, but can be adapted to a variety of web scraping or automation tasks.
+
+>To use the WebDriver API in Python, you must first install the Selenium Python bindings. This will give you access to >your browser from Python code. The easiest way to install the bindings is via [pip](https://pip.pypa.io/en/stable/).
+
+>On Ubuntu/Debian systems, this will install pip (and dependencies) and then install the Selenium Python bindings from [PyPI](https://pypi.org/project/selenium/): 
+
+
+>sudo apt-get install python-pip
+>sudo pip install selenium
+
+After the installation, the following code should work: 
+
+
+>#!/usr/bin/env python
+
+>from selenium import webdriver
+
+>browser = webdriver.Chrome([path of drive](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/tree/master/chromedriver_linux64(1)))
+>browser.get('http://www.ubuntu.com/')
  
     
     
