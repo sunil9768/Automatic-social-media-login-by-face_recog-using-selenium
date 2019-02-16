@@ -194,7 +194,7 @@ After the installation, the following code should work:
 
 After face_recognition Automatic open social media(instagram,facebook,linkedin,github) according to your choice
  
-    
+![alt text](images/successful.png)
     
     
     
