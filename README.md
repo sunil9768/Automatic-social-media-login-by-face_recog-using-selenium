@@ -189,6 +189,10 @@ After the installation, the following code should work:
 
 
 >python3 face.py
+
+
+
+After face_recognition Automatic open social media(instagram,facebook,linkedin,github) according to your choice
  
     
     
