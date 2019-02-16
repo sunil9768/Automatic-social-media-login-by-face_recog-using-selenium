@@ -20,6 +20,9 @@ Automatic-social-media-login-by-face_recog-using-selenium
     
     Next, we need to download Anaconda. First, we change into the Temp directory:
     > cd /tmp/
+    
+    
+    
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu002.png)
     
 
