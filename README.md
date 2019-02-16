@@ -17,6 +17,10 @@ Automatic-social-media-login-by-face_recog-using-selenium
     >wget https://repo.anaconda.com/archive/Anaconda3-5.0.1-Linux-x86_64.sh  
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu003.png)
     
+    
+    Next, we need to download Anaconda. First, we change into the Temp directory:
+    > cd /tmp/
+    
 
 2. Download Open CV Package
 3. Set Environmental Variables
