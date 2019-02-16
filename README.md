@@ -13,7 +13,7 @@ Automatic-social-media-login-by-face_recog-using-selenium
 
 
 
-1. Install Anaconda3 in terminal:
+1. **Install Anaconda3 in terminal:**
     >wget https://repo.anaconda.com/archive/Anaconda3-5.0.1-Linux-x86_64.sh  
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu003.png)
     
@@ -30,7 +30,7 @@ Automatic-social-media-login-by-face_recog-using-selenium
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu005-300x57.png)   
     
     
-2. After install Anaconda3 then we go to terminal there.we write
+2. **After install Anaconda3 then we go to terminal there.we write**
 
 
    >anaconda-navigator
@@ -41,6 +41,16 @@ Automatic-social-media-login-by-face_recog-using-selenium
     
     
     > Successfully Installed:+1:
+    
+    
+ 3.**Necessary module will  be installed in terminal**
+ 
+ >sudo apt-get install python3.6
+ 
+ Use the following command to install pip for Python 3:
+ >sudo apt install python3-pip
+ Once the installation is complete, verify the installation by checking the pip version:
+ >pip3 --version
     
     
     
