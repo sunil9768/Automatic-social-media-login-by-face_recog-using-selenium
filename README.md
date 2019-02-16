@@ -48,8 +48,16 @@ Automatic-social-media-login-by-face_recog-using-selenium
  >sudo apt-get install python3.6
  
  Use the following command to install pip for Python 3:
+ 
+ 
  >sudo apt install python3-pip
+ 
+ 
  Once the installation is complete, verify the installation by checking the pip version:
+ 
+ 
+ 
+ 
  >pip3 --version
     
     
