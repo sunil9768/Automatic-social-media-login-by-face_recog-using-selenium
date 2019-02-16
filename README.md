@@ -87,6 +87,33 @@ Automatic-social-media-login-by-face_recog-using-selenium
  
  
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ **Description**
+ 
+ 
+ 1.**Face Recognition**
+ 
+ 
+ 
+ >Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
+
+>Built using dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
+
+>This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
+
+
+To install dlib before Face Recognition, run this command in your terminal:
+
  First, dlib installed with Python bindings:
  
  
@@ -113,31 +140,12 @@ Automatic-social-media-login-by-face_recog-using-selenium
  At this point, you should be able to run python3 and type import dlib successfully.:+1:
  
  
+ After install Face_recognition
  
  
  
- 
- To install Face Recognition, run this command in your terminal:
- 
- 
- 
- 
+
  > pip3 install face_recognition
- 
- 
- 
- **Description**
- 
- 
- 1.**Face Recognition**
- 
- 
- 
- >Recognize and manipulate faces from Python or from the command line with the world's simplest face recognition library.
-
->Built using dlib's state-of-the-art face recognition built with deep learning. The model has an accuracy of 99.38% on the Labeled Faces in the Wild benchmark.
-
->This also provides a simple face_recognition command line tool that lets you do face recognition on a folder of images from the command line!
  
     
     
