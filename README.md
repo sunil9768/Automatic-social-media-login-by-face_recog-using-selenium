@@ -30,15 +30,20 @@ Automatic-social-media-login-by-face_recog-using-selenium
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu005-300x57.png)   
     
     
+2. After install Anaconda3 then we go to terminal there.we write
+
+
+   >anaconda-navigator
+
+
+   >[you see](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/Screenshot%20from%202019-02-16%2016-44-43.png)
+    
+    
+    
     > Successfully Installed:+1:
     
     
 
-2. After install Anaconda3 then we go to terminal there.we write
->anaconda-navigator
-
-
->[you see](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/Screenshot%20from%202019-02-16%2016-44-43.png)
 
 
 
