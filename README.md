@@ -9,7 +9,7 @@ Automatic-social-media-login-by-face_recog-using-selenium
 
 
 
-**Installing**
+**Installing**(in Ubntu 18.04)
 
 
 
