@@ -25,6 +25,9 @@ Automatic-social-media-login-by-face_recog-using-selenium
     
     >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu002.png)
     
+    >Install Anaconda
+    
+    >[See Screenshort](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/install-anaconda-ubuntu005-300x57.png)    
 
 2. Download Open CV Package
 3. Set Environmental Variables
