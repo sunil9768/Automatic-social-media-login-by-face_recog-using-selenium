@@ -193,6 +193,14 @@ After the installation, the following code should work:
 
 
 After face_recognition Automatic open social media(instagram,facebook,linkedin,github) according to your choice
+
+[See](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/Screenshot%20from%202019-02-17%2007-11-20.png)
+
+
+
+**press one of them who want opens 
+
+[see](https://github.com/sunil9768/Automatic-social-media-login-by-face_recog-using-selenium/blob/master/Screenshot%20from%202019-02-17%2007-33-16.png)
  
 
     
