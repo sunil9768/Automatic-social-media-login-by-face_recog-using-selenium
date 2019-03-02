@@ -9,7 +9,7 @@ known_face_encodings = [
     omprakash_face_encoding
 ]
 known_face_names = [
-    "Sunil kumar",
+    "Sunil kumar"
     
 ]
 
