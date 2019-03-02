@@ -1,17 +1,16 @@
 import face_recognition
 import cv2
 video_capture = cv2.VideoCapture(0)
-sunil_image = face_recognition.load_image_file("/home/sunil/Downloads/Face_Recognition-master/Face_Recoginitions/IMG_20181104_141345.jpg")
+sunil_image = face_recognition.load_image_file("/home/2.jpg")
 sunil_face_encoding = face_recognition.face_encodings(sunil_image)[0]
-omprakash_image = face_recognition.load_image_file("/home/sunil/Downloads/Face_Recognition-master/Face_Recoginitions/op.jpg")
-omprakash_face_encoding = face_recognition.face_encodings(omprakash_image)[0]
+
 known_face_encodings = [
     sunil_face_encoding,
     omprakash_face_encoding
 ]
 known_face_names = [
     "Sunil kumar",
-    "omprakash"
+    
 ]
 
 
@@ -49,9 +48,9 @@ while True:
             	
                 face_names.append(name)
                 if name =='Sunil kumar':
-                    import mainSunil
-                if name =='omprakash':
-                    import menuOp
+                    import main
+                
+          
             
 
     process_this_frame = not process_this_frame
