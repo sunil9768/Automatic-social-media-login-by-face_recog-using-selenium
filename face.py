@@ -48,7 +48,7 @@ while True:
             	
                 face_names.append(name)
                 if name =='Sunil kumar':
-                    import main
+                    import mainSunil
                 
           
             
